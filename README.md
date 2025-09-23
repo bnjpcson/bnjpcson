@@ -78,7 +78,7 @@ Hi there! I'm a full-stack developer specializing in Web and Mobile Development,
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=bnjpcson&show_icons=true&theme=radical" height="150px"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bnjpcson&theme=radical"  height="150px"/>
+<img src="https://github-readme-stats-mu-nine-74.vercel.app/api?username=bnjpcson&show_icons=true&theme=radical"  height="150px"/>
 </div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bnjpcson&layout=compact&theme=radical" />
 </section>
@@ -94,7 +94,7 @@ Hi there! I'm a full-stack developer specializing in Web and Mobile Development,
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=BenjiePecson&show_icons=true&theme=radical" height="150px"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BenjiePecson&theme=radical"  height="150px"/>
+<img src="https://github-readme-stats-mu-nine-74.vercel.app/api?username=BenjiePecson&show_icons=true&theme=radical"  height="150px"/>
 </div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenjiePecson&layout=compact&theme=radical" />
 </section>

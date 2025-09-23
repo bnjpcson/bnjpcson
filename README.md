@@ -77,15 +77,16 @@ Hi there! I'm a full-stack developer specializing in Web and Mobile Development,
 <img src="https://github-profile-trophy.vercel.app/?username=bnjpcson" />
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=bnjpcson&show_icons=true&theme=radical" height="150px"/>
-<img src="https://github-readme-stats-mu-nine-74.vercel.app/api?username=bnjpcson&show_icons=true&theme=radical"  height="150px"/>
+    <img src="https://github-readme-stats-mu-nine-74.vercel.app/api?username=bnjpcson&show_icons=true&theme=radical"  height="150px"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bnjpcson&theme=radical"  height="150px" alt="GitHub Streak Stats"/>
 </div>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bnjpcson&layout=compact&theme=radical" />
 </section>
 
 <section>
 
-### BenjiePecson (Work Account)
+### <a href="https://github.com/BenjiePecson">BenjiePecson (Work Account)</a>
 <div>
    <img src="https://komarev.com/ghpvc/?username=BenjiePecson&color=blue" />
 </div>
@@ -93,8 +94,8 @@ Hi there! I'm a full-stack developer specializing in Web and Mobile Development,
 <img src="https://github-profile-trophy.vercel.app/?username=BenjiePecson" />
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=BenjiePecson&show_icons=true&theme=radical" height="150px"/>
-<img src="https://github-readme-stats-mu-nine-74.vercel.app/api?username=BenjiePecson&show_icons=true&theme=radical"  height="150px"/>
+    <img src="https://github-readme-stats-mu-nine-74.vercel.app/api?username=BenjiePecson&show_icons=true&theme=radical"  height="150px"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BenjiePecson&theme=radical"  height="150px" alt="GitHub Streak Stats"/>
 </div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenjiePecson&layout=compact&theme=radical" />
 </section>

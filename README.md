@@ -6,7 +6,6 @@ Hi there! I'm a full-stack developer specializing in Web and Mobile Development,
 - 🔭 Currently seeking new opportunities where I can apply my skills and continue growing professionally
 - 🌱 Continuously exploring new tools and technologies to develop faster and ship smarter
 - 💬 Open to conversations about how I can contribute to your team or project
-- Reach me via LinkedIn or check out my Portfolio
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/bnjpcson/) or check out my  [Portfolio](https://bnjpcson.vercel.app/)
 ---
 ## 🔗Socials
